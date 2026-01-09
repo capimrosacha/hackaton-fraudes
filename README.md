@@ -36,3 +36,9 @@ O script conta com as seguintes funções principais:
    ```bash
    python hackaton_fraudes.py
    ```
+
+
+
+Equipe: Eric Rodrigues Arrais & Kenya Tyeh Kusano Santos
+
+Data: 06/04/2025
